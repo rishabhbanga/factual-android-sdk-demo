@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="factual-java-driver-1.8.9-android">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.factual/factual-java-driver/1.8.9-android/802536443ac4a6b980fc51ad4a2901ca9787c301/factual-java-driver-1.8.9-android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.factual/factual-java-driver/1.8.9-android/449540c16b1db23b3fbd874c9f0f71d1576135d2/factual-java-driver-1.8.9-android-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

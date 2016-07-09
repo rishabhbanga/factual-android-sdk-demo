@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\MyPrecious\factual-android-sdk-demo-master\app\src\main\assets"/></dataSet><dataSet config="debug"><source path="C:\MyPrecious\factual-android-sdk-demo-master\app\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\erishba\Documents\GitHub\factual-android-sdk-demo\Android Studio\app\src\main\assets"/><source path="C:\Users\erishba\Documents\GitHub\factual-android-sdk-demo\Android Studio\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\erishba\Documents\GitHub\factual-android-sdk-demo\Android Studio\app\src\debug\assets"/></dataSet></merger>

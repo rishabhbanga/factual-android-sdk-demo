@@ -2,5 +2,9 @@
     {
         "merged": "C:\\MyPrecious\\factual-android-sdk-demo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
         "source": "C:\\MyPrecious\\factual-android-sdk-demo-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\erishba\\Documents\\GitHub\\factual-android-sdk-demo\\Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\erishba\\Documents\\GitHub\\factual-android-sdk-demo\\Android Studio\\app\\src\\main\\res\\layout\\main.xml"
     }
 ]

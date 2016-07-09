@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\erishba\\Documents\\GitHub\\factual-android-sdk-demo\\Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\erishba\\Documents\\GitHub\\factual-android-sdk-demo\\Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\MyPrecious\\factual-android-sdk-demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "C:\\MyPrecious\\factual-android-sdk-demo-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     }
